@@ -1,0 +1,7 @@
+SET TALK OFF
+SET ECHO OFF
+SET DATE TO british
+SET DELETED ON
+SET LIBRARY TO c:\users\usuario\onedrive\proyectosvfp\prg\librerias.prg
+
+CLEAR 
